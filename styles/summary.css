@@ -1,0 +1,164 @@
+body {
+  text-align: center;
+  background-color: rgb(241, 230, 255);
+}
+
+img {
+  width: 600px;
+  height: 300px;
+}
+
+header {
+  margin-top: 10px;
+  margin-bottom: 64px;
+  font-size: 100px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bolder;
+  font-weight: 900;
+  color: rgb(86, 23, 187);
+}
+
+h1 {
+  font-size: 45px;
+  color: rgb white;
+  font-weight: bolder;
+}
+
+main {
+  width: 1300px;
+  margin: 60px auto 100px auto;
+  background-color: rgb(110, 67, 212);
+  padding: 30px;
+  text-align: left;
+  color: white;
+  border-radius: 8px;
+  font-size: 30px;
+  
+}
+
+a{
+  color: rgb(8, 36, 126);
+
+}
+
+a {
+  padding: 2px 6px;
+  background-color: rgb(255, 237, 177);
+  color: rgb(36, 3, 102);
+  border: 4px solid rgb(255, 237, 177);
+  border-radius: 4px;
+  font-size: 25px;
+  margin: 2px 2px;
+  text-decoration: none;
+}
+
+a:hover, 
+a:active{
+  background-color: rgb(250, 201, 39);
+
+}
+
+footer{
+  text-align: center;
+}
+
+footer p{
+  color: rgb(131,113, 149);
+  margin-top: 30px;
+}
+
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+li {
+  padding-left: 10px;
+  margin: 14px;
+  border-left: 5px solid transparent ;
+}
+
+.highlight{
+  color:rgb(255, 233, 108);
+  border-color: rgb(247, 209, 85);
+  
+}
+
+.high {
+  font-weight: bold;
+}
+
+
+.button {
+  background-color: rgb(248, 212, 6);
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-size: 35px;
+  color: rgb(66, 51, 4);
+  margin-bottom: 10px;
+}
+
+footer a:hover,
+footer a:active {
+  background-color: rgb(247, 96, 27);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
